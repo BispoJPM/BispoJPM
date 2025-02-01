@@ -22,7 +22,7 @@ Olá :raising_hand_man:, Me chamo João Pedro!
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-563369181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="left">Estudando</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
