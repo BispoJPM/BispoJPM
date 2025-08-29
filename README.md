@@ -30,14 +30,36 @@ Olá :raising_hand_man:, Me chamo João Pedro!
 
 <img align="right" alt="Estudando" height="135px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BispoJPM&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-### Projetos
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-- [API - 1° Semestre](https://github.com/Porygon-Users/API-Porygon)<br/>
-- [API - 2° Semestre](https://github.com/PorygonAPI/Porygon)<br/>
-- [API - 3° Semestre](https://github.com/PorygonAPI/Porygon2)<br/>
-- [Do 0 ao Spring Boot](https://github.com/BispoJPM/Projeto_Java)<br/>
+  <!-- FACULDADE -->
+  <div style="flex: 1;">
+    <h3>🎓 <img src="https://img.shields.io/badge/Projetos-Faculdade-6f42c1?style=for-the-badge" /></h3>
+    
+    <b>1° Semestre</b><br/>
+    - 🌐 [API - 1° Semestre](https://github.com/Porygon-Users/API-Porygon)<br/>
+    - 🗄️ [Modelagem de Banco de Dados](#)<br/>
 
-#
+    <b>2° Semestre</b><br/>
+    - 🌐 [API - 2° Semestre](https://github.com/PorygonAPI/Porygon)<br/>
+    - 💻 [Projetos em Java](#)<br/>
+
+    <b>3° Semestre</b><br/>
+    - 🌐 [API - 3° Semestre](https://github.com/PorygonAPI/Porygon2)<br/>
+    - 🛠️ [Padrões de Projeto](#)<br/>
+  </div>
+
+  <!-- PESSOAIS -->
+  <div style="flex: 1;">
+    <h3>🚀 <img src="https://img.shields.io/badge/Projetos-Pessoais-FF5733?style=for-the-badge" /></h3>
+    
+    - 💻 [Do 0 ao Spring Boot](https://github.com/BispoJPM/Projeto_Java)<br/>
+    - 📰 [Sistema de Notícias](https://github.com/seuusuario/sistema-noticias)<br/>
+    - 💖 [App Romântico QR Code](https://github.com/seuusuario/app-romantico)<br/>
+  </div>
+
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BispoJPM/BispoJPM/output/github-contribution-grid-snake-dark.svg">
