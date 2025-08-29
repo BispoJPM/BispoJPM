@@ -34,10 +34,7 @@ Olá :raising_hand_man:, Me chamo João Pedro!
 
 ### Projetos 
 
-- [API - 1° Semestre](https://github.com/Porygon-Users/API-Porygon)<br/>
-- [API - 2° Semestre](https://github.com/PorygonAPI/Porygon)<br/>
-- [API - 3° Semestre](https://github.com/PorygonAPI/Porygon2)<br/>
-- [Do 0 ao Spring Boot](https://github.com/BispoJPM/Projeto_Java)<br/>
+- [Projetos da Faculdade](https://github.com/BispoJPM/Projetos-Faculdade)<br/>
 
 #
 
