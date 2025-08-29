@@ -32,34 +32,14 @@ Olá :raising_hand_man:, Me chamo João Pedro!
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
-  <!-- FACULDADE -->
-  <div style="flex: 1;">
-    <h3>🎓 <img src="https://img.shields.io/badge/Projetos-Faculdade-6f42c1?style=for-the-badge" /></h3>
-    
-    <b>1° Semestre</b><br/>
-    - 🌐 [API - 1° Semestre](https://github.com/Porygon-Users/API-Porygon)<br/>
-    - 🗄️ [Modelagem de Banco de Dados](#)<br/>
+### Projetos 
 
-    <b>2° Semestre</b><br/>
-    - 🌐 [API - 2° Semestre](https://github.com/PorygonAPI/Porygon)<br/>
-    - 💻 [Projetos em Java](#)<br/>
+- [API - 1° Semestre](https://github.com/Porygon-Users/API-Porygon)<br/>
+- [API - 2° Semestre](https://github.com/PorygonAPI/Porygon)<br/>
+- [API - 3° Semestre](https://github.com/PorygonAPI/Porygon2)<br/>
+- [Do 0 ao Spring Boot](https://github.com/BispoJPM/Projeto_Java)<br/>
 
-    <b>3° Semestre</b><br/>
-    - 🌐 [API - 3° Semestre](https://github.com/PorygonAPI/Porygon2)<br/>
-    - 🛠️ [Padrões de Projeto](#)<br/>
-  </div>
-
-  <!-- PESSOAIS -->
-  <div style="flex: 1;">
-    <h3>🚀 <img src="https://img.shields.io/badge/Projetos-Pessoais-FF5733?style=for-the-badge" /></h3>
-    
-    - 💻 [Do 0 ao Spring Boot](https://github.com/BispoJPM/Projeto_Java)<br/>
-    - 📰 [Sistema de Notícias](https://github.com/seuusuario/sistema-noticias)<br/>
-    - 💖 [App Romântico QR Code](https://github.com/seuusuario/app-romantico)<br/>
-  </div>
-
-</div>
-
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BispoJPM/BispoJPM/output/github-contribution-grid-snake-dark.svg">
