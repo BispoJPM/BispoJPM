@@ -35,6 +35,7 @@ Olá :raising_hand_man:, Me chamo João Pedro!
 ### Projetos 
 
 - [Projetos da Faculdade](https://github.com/BispoJPM/Projetos-Faculdade)<br/>
+- [Projetos Pessoais](https://github.com/BispoJPM/Projetos-Pessoais)<br/>
 
 #
 
