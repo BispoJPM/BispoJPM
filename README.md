@@ -8,7 +8,6 @@ Olá :raising_hand_man:, Me chamo João Pedro!
 
   - :man_pilot: Auxiliar do Controle Interno na Força Aérea Brasileira;
   - :technologist: Estudante de Banco de Dados na Fatec Jessen Vidal;
-  - :technologist: Estudante de Análise e Desenvolvimento na UniFatecie.
 
 #
 
